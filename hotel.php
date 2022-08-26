@@ -37,6 +37,7 @@
 
 <div class="page-wrapper">
 
+    
     <!-- Main Header-->
     <header class="main-header header-style-two">
 
@@ -142,7 +143,7 @@
 
                 <div class="main-box">
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html"><img src="images/logo_sinoponik.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="images/logo_sinoponik.png" alt="" title=""></a></div>
                         <div class="upper-right">
                             
                             <a href="#nav-mobile" class="mobile-nav-toggler navbar-trigger"><i class="flaticon-menu"></i></a>
@@ -157,7 +158,7 @@
 
         <!-- Mobile Header -->
         <div class="mobile-header">
-            <div class="logo"><a href="index.html"><img src="images/sinoponik.png" alt="" title=""></a></div>
+            <div class="logo"><a href="index.php"><img src="images/sinoponik.png" alt="" title=""></a></div>
             <!--Nav Box-->
             <div class="nav-outer clearfix">
                 <div class="outer-box">
@@ -174,7 +175,7 @@
             <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
             <nav class="menu-box">
                 <div class="upper-box">
-                    <div class="nav-logo"><a href="index.html"><img src="images/logo_sinoponik.png" alt="" title=""></a></div>
+                    <div class="nav-logo"><a href="index.php"><img src="images/logo_sinoponik.png" alt="" title=""></a></div>
                     <div class="close-btn"><i class="icon flaticon-close"></i></div>
                 </div>
 
@@ -186,7 +187,7 @@
         <!-- Header Search -->
         <div class="search-popup">
             <button class="close-search"><i class="flaticon-close"></i></button>
-            <form method="post" action="blog.html">
+            <form method="post" action="#">
                 <div class="form-group">
                     <input type="search" name="search-field" value="" placeholder="Search" required="">
                     <button type="submit"><i class="fa fa-search"></i></button>
@@ -209,197 +210,150 @@
                 
                 <ul class="page-breadcrumb">
                     <li><a href="index.html">Home</a></li>
-                    <li>Detail Pembicara</li>
+                    <li>Referensi hotel</li>
                 </ul> 
             </div>
         </div>
     </section>
     <!--End Fun Fact Section -->
-
-    <!--Sidebar Page Container-->
-    <div class="sidebar-page-container">
+   
+    <section class="news-section alternate bg-none">
         <div class="auto-container">
-            <div class="row clearfix">
-
-                <!--Content Side / Blog Sidebar-->
-                <div class="content-side col-lg-12 col-md-12 col-sm-12">
-                    <div class="blog-detail">
-                        <!-- News Block Four -->
-                        <div class="news-block style-four">
-                            <div class="inner-box">
-                                <div class="lower-content">
-                                    <div class="author">
-                                                
-                                    </div>
-                                    
-                                    <div class="row two-column">
-                                    <div class="speaker-block col-lg-4 col-md-4 col-sm-12 wow fadeInLeft">
-                                        <div class="inner-box">
-                                             <div class="image-box">
-                                                  <figure class="image"><a href="#"><img src="images/resource/midji_detail.jpg" alt=""></a></figure>
-                                             </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="details-column col-lg-7 col-md-6 col-sm-12">
-                                    <div class="speaker-details">
-                                        <h4 class="name"><a href="#">H. Sutarmidji, S.H., M.Hum</a></h4>
-                                        <span class="designation">Guberbur Kalimantan Barat</span>
+            <div class="row">
+            <div class="sec-title text-center">
+             
+             <h2>Referensi Hotel</h2>
+             <span class="divider"></span>
+         </div>
+                <!-- News Block Four -->
+                <div class="news-block style-four col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            
+                            <figure class="image"><a href="blog-single.html"><img src="images/resource/news-1.jpg" alt=""></a></figure>
+                        </div>
+                        <div class="lower-content">
+                            <div class="author">
                                 
-                                         <p align="justify">
-                                            H. SUTARMIDJI, SH, M.Hum adalah Gubernur Kalimantan Barat yang menjabat sejak Tahun 2018. 
-                                             Sebelumnya beliau menjabat sebagai walikota Pontianak selama dua periode (2008-2013 dan 2013-2018).</br>
-                                             H. SUTARMIDJI, SH, M.Hum resmi dilantik sebagai Wali Kota Balikpapan untuk masa jabatan 2018-2023 pada Rabu, 
-                                             9 Mei 2018. Pelantikan dilakukan oleh Gubernur Kalimantan Timur H. Sutarmidji SH., M.Hum atas nama Presiden RI di Istana Negara Jakarta.</p>
-                                     </div>
-                                     </div>
-                                    </div>
-                                   
-                                </div>
+                                <h5 class="name"></h5>
                             </div>
+                            <ul class="post-info">
+                               
+                            </ul>    
+                            <h4><a href="blog-single.html">Grand Zury Ketapang </a></h4>
+                            
                         </div>
                     </div>
                 </div>
-                <!--Content Side / Blog Sidebar-->
-                <div class="content-side col-lg-12 col-md-12 col-sm-12">
-                    <div class="blog-detail">
-                        <!-- News Block Four -->
-                        <div class="news-block style-four">
-                            <div class="inner-box">
-                                <div class="lower-content">
-                                    <div class="author">
-                                                
-                                    </div>
-                                    
-                                    <div class="row two-column">
-                                    <div class="speaker-block col-lg-4 col-md-4 col-sm-12 wow fadeInLeft">
-                                        <div class="inner-box">
-                                             <div class="image-box">
-                                                  <figure class="image"><a href="#"><img src="images/resource/beni_detail.jpg" alt=""></a></figure>
-                                             </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="details-column col-lg-7 col-md-6 col-sm-12">
-                                    <div class="speaker-details">
-                                        <h4 class="name"><a href="#">Dr. Beny Bandanadjaya, S.T., M.T</a></h4>
-                                        <span class="designation">Direktur Pendidikan Tinggi Vokasi dan Profesi</span>
+                <div class="news-block style-four col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            
+                            <figure class="image"><a href="blog-single.html"><img src="images/resource/news-1.jpg" alt=""></a></figure>
+                        </div>
+                        <div class="lower-content">
+                            <div class="author">
                                 
-                                         <p align="justify">
-                                         Dr. Beny Bandanadjaya, ST., MT kelahiran Jakarta, 30 September 1970. Menyelesaikan S1 di Institut Teknologi Bandung (ITB) 
-                                        pada Program Teknik Mesin Tahun 2002; S2 di ITB pada Program Teknik Mesin Tahun 2004; dan S3 di ITB pada Program Ilmu dan 
-                                        Teknik Material Tahun 2009.</br>
-                                        Karir dimulai dengan menjadi Staf Engineering di PT Hanco Foundry Industry pada 1993-1994; 
-                                        Instruktur Cetakan Mesin di POLMAN Bandung pada 1995-1997; Koordinator Penelitian dan 
-                                        Pengabdian Masyarakat sekaligus Kepala Laboratorium Material POLMAN Bandung pada 2009-2013; 
-                                        Kepala Ketua Jurusan Teknik Pengecoran Logam POLMAN Bandung pada 2013-2017; Wakil Direktur I Bidang Akademik 
-                                        POLMAN Bandung pada 2017-2020. Kemudian sejak Juni 2020 ditunjuk menjadi Direktur Pendidikan Tinggi Vokasi dan 
-                                        Profesi, Ditjen Pendidikan Vokasi.</p>
-                                     </div>
-                                     </div>
-                                    </div>
-                                   
-                                </div>
+                                <h5 class="name"></h5>
                             </div>
+                            <ul class="post-info">
+                               
+                            </ul>    
+                            <h4><a href="blog-single.html">Aston Ketapang </a></h4>
+                            
                         </div>
                     </div>
                 </div>
-                <div class="content-side col-lg-12 col-md-12 col-sm-12">
-                    <div class="blog-detail">
-                        <!-- News Block Four -->
-                        <div class="news-block style-four">
-                            <div class="inner-box">
-                                <div class="lower-content">
-                                    <div class="author">
-                                                
-                                    </div>
-                                    
-                                    <div class="row two-column">
-                                    <div class="speaker-block col-lg-4 col-md-4 col-sm-12 wow fadeInLeft">
-                                        <div class="inner-box">
-                                             <div class="image-box">
-                                                  <figure class="image"><a href="#"><img src="images/resource/budi_detail.jpg" alt=""></a></figure>
-                                             </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="details-column col-lg-7 col-md-6 col-sm-12">
-                                    <div class="speaker-details">
-                                        <h4 class="name"><a href="#">Prof. Dr. Budi Setiadi Daryono, S.Si.,M.Agr.Sc.</a></h4>
-                                        <span class="designation">Guru Besar dan Dekan Fakultas Biologi Universitas Gadjah Mada, Yogyakarta</span>
+                <div class="news-block style-four col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            
+                            <figure class="image"><a href="blog-single.html"><img src="images/resource/news-1.jpg" alt=""></a></figure>
+                        </div>
+                        <div class="lower-content">
+                            <div class="author">
                                 
-                                         <p align="justify">
-                                         Beliau menempuh S3 di Tokyo University of Agriculture dengan judul penelitian Studies 
-                                         on Identification of Melon Virus in Indonesia and Characterization of Virus Resistant Gene in Melon. 
-                                         Disertasi tersebut merupakan lanjutan penelitian beliau sebelumnya, yaitu Identification of Cucurbits 
-                                         Viruses in Indonesia and Screening for Virus Resistant in Melon Beliau dikukuhkan menjadi Guru Besar 
-                                         Universtias Gadjah Mada pada 25 Juli 2019 di Balai Senat UGM, dengan tema kajian Perkembangan dan 
-                                         Aplikasi Genetika Dalam Pemanfaatan dan Pelestarian Keanekaragaman Genetik.</br>
-                                         Beliau menyampaikan bahwa pengembangan materi genetik sudah melebihi ekspektasi manusia. 
-                                         “Materi genetik yang semula hanya dimanfaatkan dalam seleksi dan pemuliaan hewan serta tumbuhan,
-                                          kini sudah dimanfaatkan dalam membuat organisme unggul, vaksin, hormon, menciptakan bio-weapon,
-                                           dan menopang perekonomian negara melalui produk bioteknologi modern. Peran dan aplikasi genetika
-                                            dalam bidang pangan, khususnya dalam mempercepat proses pengembangan varietas tanaman, 
-                                            salah satunya yaitu pengembangan Marker Asisted Selection (MAS) untuk pemuliaan tanaman.</p>
-                                     </div>
-                                     </div>
-                                    </div>
-                                   
-                                </div>
+                                <h5 class="name"></h5>
                             </div>
+                            <ul class="post-info">
+                               
+                            </ul>    
+                            <h4><a href="blog-single.html">Nevada Hotel Ketapang </a></h4>
+                            
                         </div>
                     </div>
                 </div>
-                <div class="content-side col-lg-12 col-md-12 col-sm-12">
-                    <div class="blog-detail">
-                        <!-- News Block Four -->
-                        <div class="news-block style-four">
-                            <div class="inner-box">
-                                <div class="lower-content">
-                                    <div class="author">
-                                                
-                                    </div>
-                                    
-                                    <div class="row two-column">
-                                    <div class="speaker-block col-lg-4 col-md-4 col-sm-12 wow fadeInLeft">
-                                        <div class="inner-box">
-                                             <div class="image-box">
-                                                  <figure class="image"><a href="#"><img src="images/resource/ardi_detail.jpg" alt=""></a></figure>
-                                             </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="details-column col-lg-7 col-md-6 col-sm-12">
-                                    <div class="speaker-details">
-                                        <h4 class="name"><a href="#">Prof. Dr. Ardi Marwan S.Pd, M.Ed</a></h4>
-                                        <span class="designation">Atase Pendidikan dan Kebudayaan KBRI Berlin, Jerman</span>
+                <div class="news-block style-four col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            
+                            <figure class="image"><a href="blog-single.html"><img src="images/resource/news-1.jpg" alt=""></a></figure>
+                        </div>
+                        <div class="lower-content">
+                            <div class="author">
                                 
-                                         <p align="justify">
-                                         Prof. Dr. Ardi Marwan S.Pd, M.Ed, berkesempatan menyelesaikan program magisternya di Monash University 
-                                         melalui beasiswa Australian Developmen Scholarship pada tahun 2001 dan meraih Australian Leadership 
-                                         Award untuk program Doktoralnya di Flinders University, Australia pada tahun 2007.</br>
-                                         Prof. Dr. Ardi merupakan guru besar pertama di Politeknik Negeri Pontianak. 
-                                         Berkat dedikasinya selama 20 tahun secara tekun membimbing dan mengajar di 
-                                         Politeknik Negeri Pontianak saat ini Prof. Dr. Ardi diberikan amanat untuk menjadi 
-                                         Atase Pendidikan dan Kebudayaan di Berlin, Jerman.</p>
-                                     </div>
-                                     </div>
-                                    </div>
-                                   
-                                </div>
+                                <h5 class="name"></h5>
                             </div>
+                            <ul class="post-info">
+                               
+                            </ul>    
+                            <h4><a href="blog-single.html">Fave Hotel Ketapang </a></h4>
+                            
                         </div>
                     </div>
                 </div>
-                
+                <div class="news-block style-four col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            
+                            <figure class="image"><a href="blog-single.html"><img src="images/resource/news-1.jpg" alt=""></a></figure>
+                        </div>
+                        <div class="lower-content">
+                            <div class="author">
+                                
+                                <h5 class="name"></h5>
+                            </div>
+                            <ul class="post-info">
+                               
+                            </ul>    
+                            <h4><a href="blog-single.html">Onyx Hotel Ketapang </a></h4>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="news-block style-four col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            
+                            <figure class="image"><a href="blog-single.html"><img src="images/resource/news-1.jpg" alt=""></a></figure>
+                        </div>
+                        <div class="lower-content">
+                            <div class="author">
+                                
+                                <h5 class="name"></h5>
+                            </div>
+                            <ul class="post-info">
+                               
+                            </ul>    
+                            <h4><a href="blog-single.html">Borneo Emeral Hotel </a></h4>
+                            
+                        </div>
+                    </div>
+                </div>
                 
             </div>
-        </div>
-    </div>
-    <!-- End Sidebar Page Container -->
 
-   
-    
+            <div class="styled-pagination mb-3">
+                <ul>
+                    <li class="prev-post"><a href="#"><span class="fa fa-angle-left"></span></a></li>
+                    <li><a href="#">1</a></li>
+                    <li class="active"><a href="#">2</a></li>
+                    <li><a href="#">3</a></li>
+                    <li class="next-post"><a href="#"><span class="fa fa-angle-right"></span> </a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
     
 
     <!-- Fun Fact Section -->

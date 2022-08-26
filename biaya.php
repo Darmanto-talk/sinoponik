@@ -108,7 +108,7 @@
                                             <li><a href="poster.php">Poster</a></li>
                                             <li><a href="panduan.php">Panduan</a></li>
                                             <li><a href="biaya.php">Biaya</a></li>
-                                            <li><a href="template.docx" download">Format Artikel</a></li>
+                                            <li><a href="template.docx" download>Format Artikel</a></li>
                                             <li><a href="https://sinoponik.politap.ac.id/index.php/Sinoponik" target="_blank">Pendaftaran</a></li>
                                         </ul>
                                     </li>
@@ -116,17 +116,17 @@
                                     <li class="dropdown"><a href="#">Program</a>
                                         <ul>
                                             <li><a href="topik.php">Topik</a></li>
-                                            <li><a href="#">Randown Acara</a></li>
+                                            <li><a href="randown.php">Randown Acara</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="#">Tempat</a>
                                         <ul>
-                                            <li><a href="blog-classic.html">Lokasi Kegiatan</a></li>
-                                            <li><a href="blog-grid.html">Wisata</a></li>
-                                            <li><a href="blog-single.html">Referensi Hotel</a></li>
+                                            <li><a href="lokasi.php">Lokasi Kegiatan</a></li>
+                                            <li><a href="wisata.php">Wisata</a></li>
+                                            <li><a href="hotel.php">Referensi Hotel</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact.html">Kontak Kami</a></li>
+                                    <li><a href="kontak.php">Kontak Kami</a></li>
                                 </ul>
                             </div>
                         </nav>                    
@@ -225,73 +225,39 @@
                     <table class="cart-table">
                         <thead class="cart-header">
                             <tr>
-                                <th class="prod-column">Product</th>
-                                <th class="price">Price</th>
-                                <th>Quantity</th>
-                                <th>Total</th>
-                                <th>Remove</th>
+                                <th class="prod-column">Nama Kegiatan</th>
+                                <th class="price">Biaya</th>
                             </tr>
                         </thead>
                         
                         <tbody>
                             <tr>
                                 <td class="prod-column">
-                                    <div class="column-box">
-                                        <figure class="prod-thumb"><a href="#"><img src="images/resource/products/thumb-1.jpg" alt=""></a></figure>
-                                        <h6 class="prod-title">Modern Basket</h6>
-                                    </div>
+                                    <h6 class="prod-title">Pemakalah Umum/Industri/Praktisi</h6>
                                 </td>
-                                <td class="price">$130.00</td>
-                                <td class="qty"><input class="quantity-spinner" type="text" value="2" name="quantity"></td>
-                                <td class="sub-total">$260.00</td>
-                                <td class="remove"><a href="#" class="remove-btn"><span class="fa fa-times"></span></a></td>
+                                <td class="price">Rp. 350.000</td>
                             </tr>
-                            
                             <tr>
                                 <td class="prod-column">
-                                    <div class="column-box">
-                                        <figure class="prod-thumb"><a href="#"><img src="images/resource/products/thumb-2.jpg" alt=""></a></figure>
-                                        <h6 class="prod-title">AB Package</h6>
-                                    </div>
+                                    <h6 class="prod-title">Pemakalah Kedua</h6>
                                 </td>
-                                <td class="price">$90.00</td>
-                                <td class="qty"><input class="quantity-spinner" type="text" value="2" name="quantity"></td>
-                                <td class="sub-total">$90.00</td>
-                                <td class="remove"><a href="#" class="remove-btn"><span class="fa fa-times"></span></a></td>
+                                <td class="price"> Rp. 250.000</td>
+                            </tr>
+                            <tr>
+                                <td class="prod-column">
+                                    <h6 class="prod-title">Pemakalah Mahasiswa (D3/S1/S2/S3)</h6>
+                                </td>
+                                <td class="price"> Rp. 200.000</td>
+                            </tr>
+                            <tr>
+                                <td class="prod-column">
+                                    <h6 class="prod-title">Non-Pemakalah Mahasiswa & Umum</h6>
+                                </td>
+                                <td class="price"> Rp. 100.000</td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
-                
-                <div class="coupon-outer clearfix">
-                    <div class="pull-left">
-                        <div class="apply-coupon clearfix">
-                            <div class="form-group clearfix">
-                                <input type="text" name="coupon-code" value="" placeholder="Coupon Code">
-                            </div>
-                            <div class="form-group clearfix">
-                                <button type="button" class="theme-btn coupon-btn btn-style-one"><span class="txt">Apply Coupon</span></button>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="pull-right">
-                        <button type="button" class="theme-btn btn-style-one"><span class="txt">Update Cart</span></button>
-                    </div>
-                    
-                </div>
-                
-                <!--Cart Total Box-->
-                <div class="cart-total-box">
-                    <h4>Cart Totals</h4>
-                    <!--Totals Table-->
-                    <ul class="totals-table">
-                        <li class="clearfix"><span class="col col-title">Subtotal</span><span class="col">$350.00</span></li>
-                        <li class="clearfix"><span class="col col-title">Tax</span><span class="col">$15.00</span></li>
-                        <li class="total clearfix"><span class="col col-title">Total .</span><span class="col">$365.00</span></li>
-                    </ul>
-                </div>
-                <div class="text-left"><button type="submit" class="theme-btn checkout-btn">Proceed to Checkout</button></div>
             </div>
             
         </div>
@@ -420,7 +386,7 @@
                             <div class="footer-column col-xl-7 col-lg-6 col-md-6 col-sm-12">
                                 <div class="footer-widget about-widget">
                                     <div class="logo">
-                                        <a href="index.html"><img src="images/logo_sinoponik.png" alt="" /></a>
+                                        <a href="index.php"><img src="images/logo_sinoponik.png" alt="" /></a>
                                     </div>
                                     <div class="text">
                                         <p>SINOPONIK 2022</br>
@@ -441,11 +407,10 @@
                                 <div class="footer-widget lnks-widget">
                                     <h2 class="widget-title">Useful Links</h2>
                                     <ul class="user-links">
-                                    <li><a href="#">Home</a></li>
+                                        <li><a href="#">Home</a></li>
                                         <li><a href="#">Sinoponik</a></li>
                                         <li><a href="#">Politap</a></li>
                                         <li><a href="#">Kontak</a></li>
-                                        
                                     </ul>
                                 </div>
                             </div>
@@ -456,8 +421,8 @@
                     <div class="big-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
                         <div class="row">
                             <!--Footer Column-->
-                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
-                                <div class="footer-widget gallery-widget">
+                            <div class="footer-column col-lg-3 col-md-6 col-sm-12">
+                                <!-- <div class="footer-widget gallery-widget">
                                     <h2 class="widget-title">Dilaksanakan Oleh</h2>
                                     <div class="widget-content">
                                         <div class="outer clearfix">
@@ -486,11 +451,11 @@
                                             </figure>
                                         </div>
                                     </div>       
-                                </div>
+                                </div> -->
                             </div>
 
                             <!--Footer Column-->
-                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
+                            <div class="footer-column col-lg-8 col-md-6 col-sm-12">
                                 <!--Footer Column-->
                                 <div class="footer-widget contact-widget">
                                     <h2 class="widget-title">Get in Touch</h2>
@@ -545,6 +510,7 @@
             </div>
         </div>
     </footer>
+    <!--End Main Footer -->
     <!--End Main Footer -->
 
 

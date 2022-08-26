@@ -108,7 +108,7 @@
                                             <li><a href="poster.php">Poster</a></li>
                                             <li><a href="panduan.php">Panduan</a></li>
                                             <li><a href="biaya.php">Biaya</a></li>
-                                            <li><a href="template.docx" download">Format Artikel</a></li>
+                                            <li><a href="template.docx" download>Format Artikel</a></li>
                                             <li><a href="https://sinoponik.politap.ac.id/index.php/Sinoponik" target="_blank">Pendaftaran</a></li>
                                         </ul>
                                     </li>
@@ -116,17 +116,17 @@
                                     <li class="dropdown"><a href="#">Program</a>
                                         <ul>
                                             <li><a href="topik.php">Topik</a></li>
-                                            <li><a href="#">Randown Acara</a></li>
+                                            <li><a href="randown.php">Randown Acara</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="#">Tempat</a>
                                         <ul>
-                                            <li><a href="blog-classic.html">Lokasi Kegiatan</a></li>
-                                            <li><a href="blog-grid.html">Wisata</a></li>
-                                            <li><a href="blog-single.html">Referensi Hotel</a></li>
+                                            <li><a href="lokasi.php">Lokasi Kegiatan</a></li>
+                                            <li><a href="wisata.php">Wisata</a></li>
+                                            <li><a href="hotel.php">Referensi Hotel</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact.html">Kontak Kami</a></li>
+                                    <li><a href="kontak.php">Kontak Kami</a></li>
                                 </ul>
                             </div>
                         </nav>                    
@@ -143,7 +143,7 @@
 
                 <div class="main-box">
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html"><img src="images/logo_sinoponik.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="images/logo_sinoponik.png" alt="" title=""></a></div>
                         <div class="upper-right">
                             
                             <a href="#nav-mobile" class="mobile-nav-toggler navbar-trigger"><i class="flaticon-menu"></i></a>
@@ -158,7 +158,7 @@
 
         <!-- Mobile Header -->
         <div class="mobile-header">
-            <div class="logo"><a href="index.html"><img src="images/sinoponik.png" alt="" title=""></a></div>
+            <div class="logo"><a href="index.php"><img src="images/sinoponik.png" alt="" title=""></a></div>
             <!--Nav Box-->
             <div class="nav-outer clearfix">
                 <div class="outer-box">
@@ -175,7 +175,7 @@
             <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
             <nav class="menu-box">
                 <div class="upper-box">
-                    <div class="nav-logo"><a href="index.html"><img src="images/logo_sinoponik.png" alt="" title=""></a></div>
+                    <div class="nav-logo"><a href="index.php"><img src="images/logo_sinoponik.png" alt="" title=""></a></div>
                     <div class="close-btn"><i class="icon flaticon-close"></i></div>
                 </div>
 
@@ -187,7 +187,7 @@
         <!-- Header Search -->
         <div class="search-popup">
             <button class="close-search"><i class="flaticon-close"></i></button>
-            <form method="post" action="blog.html">
+            <form method="post" action="#">
                 <div class="form-group">
                     <input type="search" name="search-field" value="" placeholder="Search" required="">
                     <button type="submit"><i class="fa fa-search"></i></button>
@@ -244,42 +244,32 @@
                                     
                                     <div class="row two-column">
                                         <div class="column col-lg-6 col-md-6">
-                                            <p align="justify">Pendidikan vokasi di Indonesia diharapkan selaras dengan produktifitas penelitian terapan yang dapat berkontribusi 
-                                                langsung terhadap kesejahteraan masyarakat dan dunia industri. Untuk itu diperlukan wadah diseminasi hasil 
-                                                penelitian dan perluasan networking antar pelaksana penelitian untuk mensosialisasikan dan saling mengkomunikasikan 
-                                                hasil riset terapan yang telah dilakukan. Penguatan pendidikan vokasi diperlukan dengan tujuan  agar lulusan perguruan 
-                                                tinggi vokasi dapat bersaing di dunia industry dan masyarakat luas. Dengan demikian masyarakat dapat memanfaatkan pendidikan 
-                                                vokasi untuk memperoleh keahlian tertentu yang sangat dibutuhkan. Komitmen kita semua untuk terus memberikan kontribusi dalam pelaksanaan salah satu Tri Dharma Perguruan Tinggi, 
-                                                melalui desiminasi hasil kegiatan penelitian dan pengabdian kepada masyarakat dalam upaya menopang eksistensi dan penguatan penelitian dan pengabdian yang berkelanjutan. </p>
+                                            <p align="justify">Sistem pangan nasional dibangun dengan spirit kedaulatan dan kemandirian pangan. 
+                                                Selain itu, diukur dari ketahanan pangan nasional yang didalamnya terdapat keamanan pangan 
+                                                serta outcome yang dihasilkan adalah individu dan masyarakat dapat hidup sehat, aktif, 
+                                                dan produktif secara berkelanjutan. Sistem logistik nasional telah dibangun dengan 
+                                                berbasis manajemen rantai pasok (supply chain management), paradigma 
+                                                “ship follows the trade and ship promote the trade” dan menggunakan pendekatan enam kunci 
+                                                penggerak utama logistik (six key drivers). Enam kunci penggerak utama logistik adalah komoditas, 
+                                                infrastruktur, pelaku dan penyedia jasa, sumber daya manusia, teknologi informasi & komunikasi, dan regulasi. 
+                                                Jaringan logistik nasional dibangun dengan integrasi jaringan lokal dan nasional serta koneksi jaringan global. 
+                                                Sistem logistik memiliki peran strategis dalam menyelaraskan kemajuan antar sektor ekonomi dan antar
+                                                 wilayah demi terwujudnya pertumbuhan ekonomi yang inklusif.  </p>
                                             
                                         </div>
                                         <div class="column col-lg-6 col-md-6">
-                                            <figure class="image"><img src="images/resource/post-img.jpg" alt=""></figure>
+                                            <figure class="image"><img src="images/background/latar.jpg" alt=""></figure>
                                         </div>
                                     </div>
-                                    <p align="justify ">  Sehingga untuk menghadapi era tersebut diperlukan
-                                                insan yang cerdas, kreatif dan inovatif dalam upaya strategis untuk bersinergi dan menyatukan potensi PTPPV 
-                                                menyelenggarakan Seminar Nasional Terapan Riset Inovatif (SENTRINOV). Seminar Nasional Terapan Riset Inovatif 
-                                                (SENTRINOV) merupakan kegiatan yang diselenggarakan oleh Indonesian Society of Applied Science (ISAS) yang 
-                                                merupakan konsorsium Pusat Penelitian dan Pengabdian kepada Masyarakat Politeknik Negeri se-Indonesia dalam 
-                                                lindungan Forum Direktur Politeknik Negeri se-Indonesia. Kegiatan SENTRINOV ke-8 Tahun 2022  diselenggarakan 
-                                                dengan mengambil tema “Peran Pendidikan Vokasi Dalam Rangka Mewujudkan Kemandirian Infrastruktur, 
-                                                Sosial Ekonomi dan Lingkungan Ibu Kota Negara Sebagai Kota Masa Depan “.</p>
+                                    <p align="justify ">  Sistem logistik juga menjadi benteng 
+                                                 bagi kedaulatan dan ketahanan ekonomi nasional. Peran strategis sistem logistik nasional tidak 
+                                                 hanya untuk memajukan ekonomi nasional, namun sekaligus sebagai salah satu wahana pemersatu bangsa.
+                                                SINOPONIK (Seminar Nasional Politeknik Negeri Ketapang) Tahun 2022 merupakan pilot project Seminar 
+                                                Nasional pertama yang diadakan di Politeknik Negeri Ketapang. Melalui SINOPONIK Tahun 2022, 
+                                                Politeknik Negeri Ketapang bersinergi mewujudkan ketahanan pangan nasional dengan manajemen logistik maritim..</p>
                                     <!-- Other Options -->
                                     <div class="post-share-options">
-                                        <ul class="tags">
-                                            <li><span class="title">TAGS:</span></li>
-                                            <li><a href="#">Conference</a>,</li>
-                                            <li><a href="#">Event</a>,</li>
-                                            <li><a href="#">Seminar</a>,</li>
-                                        </ul>
-
-                                        <ul class="social-icon">
-                                            <li><a href="#"><span class="fab fa-dribbble"></span></a></li>
-                                            <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
-                                            <li><a href="#"><span class="fab fa-twitter"></span></a></li>
-                                            <li><a href="#"><span class="fab fa-pinterest"></span></a></li>
-                                        </ul>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -416,7 +406,7 @@
                             <div class="footer-column col-xl-7 col-lg-6 col-md-6 col-sm-12">
                                 <div class="footer-widget about-widget">
                                     <div class="logo">
-                                        <a href="index.html"><img src="images/logo_sinoponik.png" alt="" /></a>
+                                        <a href="index.php"><img src="images/logo_sinoponik.png" alt="" /></a>
                                     </div>
                                     <div class="text">
                                         <p>SINOPONIK 2022</br>
@@ -437,11 +427,10 @@
                                 <div class="footer-widget lnks-widget">
                                     <h2 class="widget-title">Useful Links</h2>
                                     <ul class="user-links">
-                                    <li><a href="#">Home</a></li>
+                                        <li><a href="#">Home</a></li>
                                         <li><a href="#">Sinoponik</a></li>
                                         <li><a href="#">Politap</a></li>
                                         <li><a href="#">Kontak</a></li>
-                                        
                                     </ul>
                                 </div>
                             </div>
@@ -452,8 +441,8 @@
                     <div class="big-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
                         <div class="row">
                             <!--Footer Column-->
-                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
-                                <div class="footer-widget gallery-widget">
+                            <div class="footer-column col-lg-3 col-md-6 col-sm-12">
+                                <!-- <div class="footer-widget gallery-widget">
                                     <h2 class="widget-title">Dilaksanakan Oleh</h2>
                                     <div class="widget-content">
                                         <div class="outer clearfix">
@@ -482,11 +471,11 @@
                                             </figure>
                                         </div>
                                     </div>       
-                                </div>
+                                </div> -->
                             </div>
 
                             <!--Footer Column-->
-                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
+                            <div class="footer-column col-lg-8 col-md-6 col-sm-12">
                                 <!--Footer Column-->
                                 <div class="footer-widget contact-widget">
                                     <h2 class="widget-title">Get in Touch</h2>
@@ -541,6 +530,7 @@
             </div>
         </div>
     </footer>
+    <!--End Main Footer -->
     <!--End Main Footer -->
 
 

@@ -89,7 +89,7 @@
                             
                             <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li ><a href="#">Home</a>                              
+                                    <li ><a href="index.php">Home</a>                              
                                     </li>
                                     <li class="dropdown"><a href="#">Tentang Sinoponik</a>
                                         <ul>
@@ -116,17 +116,17 @@
                                     <li class="dropdown"><a href="#">Program</a>
                                         <ul>
                                             <li><a href="topik.php">Topik</a></li>
-                                            <li><a href="#">Randown Acara</a></li>
+                                            <li><a href="randown.php">Randown Acara</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="#">Tempat</a>
                                         <ul>
-                                            <li><a href="#.html">Lokasi Kegiatan</a></li>
-                                            <li><a href="blog-grid.html">Wisata</a></li>
-                                            <li><a href="blog-single.html">Referensi Hotel</a></li>
+                                            <li><a href="lokasi.php">Lokasi Kegiatan</a></li>
+                                            <li><a href="wisata.php">Wisata</a></li>
+                                            <li><a href="hotel.php">Referensi Hotel</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact.html">Kontak Kami</a></li>
+                                    <li><a href="kontak.php">Kontak Kami</a></li>
                                 </ul>
                             </div>
                         </nav>                    
@@ -143,7 +143,7 @@
 
                 <div class="main-box">
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html"><img src="images/logo_sinoponik.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="images/logo_sinoponik.png" alt="" title=""></a></div>
                         <div class="upper-right">
                             
                             <a href="#nav-mobile" class="mobile-nav-toggler navbar-trigger"><i class="flaticon-menu"></i></a>
@@ -158,7 +158,7 @@
 
         <!-- Mobile Header -->
         <div class="mobile-header">
-            <div class="logo"><a href="index.html"><img src="images/sinoponik.png" alt="" title=""></a></div>
+            <div class="logo"><a href="index.php"><img src="images/sinoponik.png" alt="" title=""></a></div>
             <!--Nav Box-->
             <div class="nav-outer clearfix">
                 <div class="outer-box">
@@ -175,7 +175,7 @@
             <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
             <nav class="menu-box">
                 <div class="upper-box">
-                    <div class="nav-logo"><a href="index.html"><img src="images/logo_sinoponik.png" alt="" title=""></a></div>
+                    <div class="nav-logo"><a href="index.php"><img src="images/logo_sinoponik.png" alt="" title=""></a></div>
                     <div class="close-btn"><i class="icon flaticon-close"></i></div>
                 </div>
 
@@ -187,7 +187,7 @@
         <!-- Header Search -->
         <div class="search-popup">
             <button class="close-search"><i class="flaticon-close"></i></button>
-            <form method="post" action="blog.html">
+            <form method="post" action="#">
                 <div class="form-group">
                     <input type="search" name="search-field" value="" placeholder="Search" required="">
                     <button type="submit"><i class="fa fa-search"></i></button>
@@ -212,7 +212,7 @@
                         <h2 class="animate-2">SINOPONIK 2022</h2>
                         <div class="text animate-3">Kabupaten Ketapang - Kalimantan Barat</div>
                         <div class="time-counter-two animate-4"><div class="time-countdown" data-countdown="11/04/2022"></div></div>
-                        <div class="btn-box animate-5"><a href="buy-ticket.html" class="theme-btn btn-style-two"><span class="btn-title">Daftar Sekarang</span></a></div>
+                        <div class="btn-box animate-5"><a href="#" class="theme-btn btn-style-two"><span class="btn-title">Daftar Sekarang</span></a></div>
                     </div>  
                 </div>
             </div>
@@ -243,7 +243,7 @@
                         <div class="inner-box">
                             <div class="image-box">
                                
-                                <figure class="image"><a href="blog-single.html"><img src="images/resource/tentang.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="#"><img src="images/resource/tentang.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
                                 <div class="author">
@@ -276,7 +276,7 @@
         </div>
     </section>
     <!-- End About Section -->
-
+    
     <!-- Feature Section -->
     <section class="pricing-section">
        <div class="auto-container">
@@ -379,127 +379,8 @@
     </section>
     <!-- End Speakers Section Two -->
     
-    <!-- Testimonial Section -->
-    <section class="testimonial-section">
-        <div class="auto-container">
-            <div class="sec-title text-center">
-                <span class="sub-title">Testimonial</span>
-                <h2>Why Our Customer Love Volia</h2>
-                <span class="divider"></span>
-            </div>
-
-            <div class="outer-box">
-                <div class="testimonial-carousel owl-carousel owl-theme disable-nav">
-                    <!-- Testimonial Block -->
-                    <div class="testimonial-block">
-                        <div class="inner-box">
-                            <div class="text-box">
-                                <p>Lorem ipsum dolor sit amet consectur adipisicing elit eiusmod tempor incididunt ut labore dolore magna.enim minim veniam.quis nostrud exercitation.</p>
-                            </div>
-                            <div class="info-box">
-                                <div class="thumb"><img src="images/resource/testi-thumb-1.jpg" alt=""></div>
-                                <div class="rating">
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </div>
-                                <h5 class="name">Monika Vance</h5>
-                                <span class="designation">Development Expert</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Testimonial Block -->
-                    <div class="testimonial-block">
-                        <div class="inner-box">
-                            <div class="text-box">
-                                <p>Lorem ipsum dolor sit amet consectur adipisicing elit eiusmod tempor incididunt ut labore dolore magna.enim minim veniam.quis nostrud exercitation.</p>
-                            </div>
-                            <div class="info-box">
-                                <div class="thumb"><img src="images/resource/testi-thumb-2.jpg" alt=""></div>
-                                <div class="rating">
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </div>
-                                <h5 class="name">Thomas Jakson</h5>
-                                <span class="designation">Development Expert</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Testimonial Block -->
-                    <div class="testimonial-block">
-                        <div class="inner-box">
-                            <div class="text-box">
-                                <p>Lorem ipsum dolor sit amet consectur adipisicing elit eiusmod tempor incididunt ut labore dolore magna.enim minim veniam.quis nostrud exercitation.</p>
-                            </div>
-                            <div class="info-box">
-                                <div class="thumb"><img src="images/resource/testi-thumb-3.jpg" alt=""></div>
-                                <div class="rating">
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </div>
-                                <h5 class="name">Thomas Jakson</h5>
-                                <span class="designation">Development Expert</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Testimonial Block -->
-                    <div class="testimonial-block">
-                        <div class="inner-box">
-                            <div class="text-box">
-                                <p>Lorem ipsum dolor sit amet consectur adipisicing elit eiusmod tempor incididunt ut labore dolore magna.enim minim veniam.quis nostrud exercitation.</p>
-                            </div>
-                            <div class="info-box">
-                                <div class="thumb"><img src="images/resource/testi-thumb-3.jpg" alt=""></div>
-                                <div class="rating">
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </div>
-                                <h5 class="name">Thomas Jakson</h5>
-                                <span class="designation">Development Expert</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-    <!--End Testimonial Section -->
     
-
-   
-
-    <!-- Call to Action Two -->
-    <section class="call-to-action-two" style="background-image: url(images/background/a.jpg);">
-        <div class="auto-container">
-            <div class="row">
-                <div class="content-column col-lg-6 offset-lg-6">
-                    <div class="content-box wow fadeInUp">
-                        <span class="sub-title">GET EXPERIENCE</span>
-                        <h2>Shift Your Perspective on Digital Business</h2>
-                        <span class="text">How you transform your business as technology, consumer, habits industry dynamic s change? Find out from those leading the charge.</span>
-                        <a href="buy-ticket.html" class="theme-btn btn-style-two"><span class="btn-title">Buy Ticket</span></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Call to Action Two -->
-
+    
      <!-- Pricing Section -->
      <section class="pricing-section">
        <div class="auto-container">
@@ -545,6 +426,7 @@
         </div>
     </section>
     <!-- End Pricing Section -->
+    
     
 
     <!-- Clients Section -->
@@ -653,7 +535,23 @@
     </section>
     <!--End schedule Section Two -->          
 
-    
+    <!-- Call to Action Two -->
+    <!-- <section class="call-to-action-two" style="background-image: url(images/background/a.jpg);">
+        <div class="auto-container">
+            <div class="row">
+                <div class="content-column col-lg-6 offset-lg-6">
+                    <div class="content-box wow fadeInUp">
+                        <span class="sub-title">GET EXPERIENCE</span>
+                        <h2>Shift Your Perspective on Digital Business</h2>
+                        <span class="text">How you transform your business as technology, consumer, habits industry dynamic s change? Find out from those leading the charge.</span>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+    <!-- End Call to Action Two -->
+
 
     <!-- Fun Fact Section -->
     <section class="fun-fact-section">
@@ -735,8 +633,8 @@
                     <div class="big-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
                         <div class="row">
                             <!--Footer Column-->
-                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
-                                <div class="footer-widget gallery-widget">
+                            <div class="footer-column col-lg-3 col-md-6 col-sm-12">
+                                <!-- <div class="footer-widget gallery-widget">
                                     <h2 class="widget-title">Dilaksanakan Oleh</h2>
                                     <div class="widget-content">
                                         <div class="outer clearfix">
@@ -765,11 +663,11 @@
                                             </figure>
                                         </div>
                                     </div>       
-                                </div>
+                                </div> -->
                             </div>
 
                             <!--Footer Column-->
-                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
+                            <div class="footer-column col-lg-8 col-md-6 col-sm-12">
                                 <!--Footer Column-->
                                 <div class="footer-widget contact-widget">
                                     <h2 class="widget-title">Get in Touch</h2>
