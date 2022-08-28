@@ -221,51 +221,97 @@
         <div class="auto-container">
         <div class="sec-title text-center">
              
-             <h2>RANDOWN ACARA SINOPONIK 2022</h2>
+             <h2>Jadwal Acara Seminar Nasional SINOPONIK</br>
+“Manajemen Logistik Maritim dalam Mendukung Ketahanan Pangan Nasional”</br>
+Politeknik Negeri Ketapang, Jumat 4 November 2022 (Hybrid)
+</h2>
              <span class="divider"></span>
          </div>
             <!--Cart Outer-->
             <div class="cart-outer">
                 <div class="table-outer">
-                    <!-- <table class="cart-table">
+                    <table class="cart-table">
                         <thead class="cart-header">
                             <tr>
-                                <th class="prod-column">Product</th>
-                                <th class="price">Price</th>
-                                <th>Quantity</th>
-                                <th>Total</th>
-                                <th>Remove</th>
+                                <th class="prod-column">No</th>
+                                <th class="price">Waktu</th>
+                                <th>Acara</th>
+                                
                             </tr>
                         </thead>
                         
                         <tbody>
                             <tr>
-                                <td class="prod-column">
-                                    <div class="column-box">
-                                        <figure class="prod-thumb"><a href="#"><img src="images/resource/products/thumb-1.jpg" alt=""></a></figure>
-                                        <h6 class="prod-title">Modern Basket</h6>
-                                    </div>
-                                </td>
-                                <td class="price">$130.00</td>
-                                <td class="qty"><input class="quantity-spinner" type="text" value="2" name="quantity"></td>
-                                <td class="sub-total">$260.00</td>
-                                <td class="remove"><a href="#" class="remove-btn"><span class="fa fa-times"></span></a></td>
+                                <td>1</td>
+                                <td>07.30 – 08.00</td>
+                                <td>Registrasi Peserta</td>
                             </tr>
                             
                             <tr>
-                                <td class="prod-column">
-                                    <div class="column-box">
-                                        <figure class="prod-thumb"><a href="#"><img src="images/resource/products/thumb-2.jpg" alt=""></a></figure>
-                                        <h6 class="prod-title">AB Package</h6>
-                                    </div>
-                                </td>
-                                <td class="price">$90.00</td>
-                                <td class="qty"><input class="quantity-spinner" type="text" value="2" name="quantity"></td>
-                                <td class="sub-total">$90.00</td>
-                                <td class="remove"><a href="#" class="remove-btn"><span class="fa fa-times"></span></a></td>
+                                <td>2</td>
+                                <td>08.00 – 08.15</td>
+                                <td>Pembukaan</br>
+                                    1. Menyanyikan Lagu Indonesia Raya</br>
+                                    2. Pembacaan Do’a
+                                    </td>
                             </tr>
+                            
+                            <tr>
+                                <td>3</td>
+                                <td>08.15 – 08.45</td>
+                                <td>Sambutan Direktur Politeknik Negeri Ketapang </br><b>Bapak Endang Kusmana, SE., MM., Ak.CA</b></td>
+                            </tr>
+                            
+                            <tr>
+                                <td>4</td>
+                                <td>08.45 – 09.15</td>
+                                <td>Keynote Speaker 1</br>
+                                    <b>Bapak Sutarmidji, SH.M.Hum </b></br>Gubernur Kalimantan Barat
+                                </td>
+                            </tr>
+                            
+                            <tr>
+                                <td>5</td>
+                                <td>09.15 – 09.45</td>
+                                <td>Keynote Speaker 2</br>
+                                   <b> Dr. Beny Bandanadjaya, ST., MT </b></br>Direktur Pendidikan Tinggi Vokasi dan Profesi </br>Direktorat Jenderal Vokasi</br>
+                                    Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi
+</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>6</td>
+                                <td>09.45 – 10.15</td>
+                                <td>Keynote Speaker 3</br><b>Prof. Dr. Ardi Marwan, S.Pd., M.Ed</b> </br>Atase Pendidikan dan Kebudayaan KBRI Berlin, Jerman</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>7</td>
+                                <td>10.15 – 11.00</td>
+                                <td>Keynote Speaker 4</br><b>Prof. Dr. Budi Setiadi Daryono, S.Si., M.Agr.Sc</b> </br>Guru Besar Universitas Gajah Mada, Yogyakarta</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>8</td>
+                                <td>11.00 – 13.00</td>
+                                <td>Ishoma</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>9</td>
+                                <td>13.00 – 16.00</td>
+                                <td><b>Presentation Parallel Session</b> </td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>16.00 – 16.30</td>
+                                <td>Penutupan</br>-	Pengumuman pemakalah terbaik</td>
+                            </tr>
+                            
+                            
+                            
                         </tbody>
-                    </table> -->
+                    </table> 
                 </div>
                 
                 

@@ -259,10 +259,21 @@
                     </table>
                 </div>
             </div>
-            
         </div>
     </section>
     
+    <section class="pricing-section">
+       <div class="auto-container">
+           <div class="sec-title text-center">
+             
+               <h2>Pembayaran Dapat dilakukan Pada No Rekening</h2>
+               <h2>Seminar Nasional Sinoponik</h2>
+               <h2>No. REK. 7777776511</h2>
+               <span class="divider"></span>
+           </div>
+        </div>
+    </section>
+    <!-- End Pricing Section -->
 
     <!-- Fun Fact Section -->
     <section class="fun-fact-section">

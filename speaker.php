@@ -249,8 +249,8 @@
                                          <p align="justify">
                                             H. SUTARMIDJI, SH, M.Hum adalah Gubernur Kalimantan Barat yang menjabat sejak Tahun 2018. 
                                              Sebelumnya beliau menjabat sebagai walikota Pontianak selama dua periode (2008-2013 dan 2013-2018).</br>
-                                             H. SUTARMIDJI, SH, M.Hum resmi dilantik sebagai Wali Kota Balikpapan untuk masa jabatan 2018-2023 pada Rabu, 
-                                             9 Mei 2018. Pelantikan dilakukan oleh Gubernur Kalimantan Timur H. Sutarmidji SH., M.Hum atas nama Presiden RI di Istana Negara Jakarta.</p>
+                                             H. SUTARMIDJI, SH, M.Hum resmi dilantik pada Rabu, 9 Mei 2018 sebagai Gubernur Kalimantan Barat untuk masa jabatan 2018-2023 pada Rabu, 
+                                              Pelantikan dilakukan di Istana Negara Jakarta oleh Presiden RI.</p>
                                      </div>
                                      </div>
                                     </div>

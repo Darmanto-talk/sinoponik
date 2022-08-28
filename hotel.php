@@ -230,7 +230,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             
-                            <figure class="image"><a href="blog-single.html"><img src="images/resource/news-1.jpg" alt=""></a></figure>
+                            <figure class="image"><a href="#"><img src="images/resource/grandzury.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                             <div class="author">
@@ -240,7 +240,7 @@
                             <ul class="post-info">
                                
                             </ul>    
-                            <h4><a href="blog-single.html">Grand Zury Ketapang </a></h4>
+                            <h4><a href="#">Grand Zury Ketapang </a></h4>
                             
                         </div>
                     </div>
@@ -249,7 +249,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             
-                            <figure class="image"><a href="blog-single.html"><img src="images/resource/news-1.jpg" alt=""></a></figure>
+                            <figure class="image"><a href="#"><img src="images/resource/aston.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                             <div class="author">
@@ -259,7 +259,7 @@
                             <ul class="post-info">
                                
                             </ul>    
-                            <h4><a href="blog-single.html">Aston Ketapang </a></h4>
+                            <h4><a href="#">Aston Ketapang </a></h4>
                             
                         </div>
                     </div>
@@ -268,7 +268,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             
-                            <figure class="image"><a href="blog-single.html"><img src="images/resource/news-1.jpg" alt=""></a></figure>
+                            <figure class="image"><a href="#"><img src="images/resource/nevada.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                             <div class="author">
@@ -278,7 +278,7 @@
                             <ul class="post-info">
                                
                             </ul>    
-                            <h4><a href="blog-single.html">Nevada Hotel Ketapang </a></h4>
+                            <h4><a href="#">Nevada Hotel Ketapang </a></h4>
                             
                         </div>
                     </div>
@@ -287,7 +287,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             
-                            <figure class="image"><a href="blog-single.html"><img src="images/resource/news-1.jpg" alt=""></a></figure>
+                            <figure class="image"><a href="#"><img src="images/resource/fave.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                             <div class="author">
@@ -297,7 +297,7 @@
                             <ul class="post-info">
                                
                             </ul>    
-                            <h4><a href="blog-single.html">Fave Hotel Ketapang </a></h4>
+                            <h4><a href="#">Fave Hotel Ketapang </a></h4>
                             
                         </div>
                     </div>
@@ -306,7 +306,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             
-                            <figure class="image"><a href="blog-single.html"><img src="images/resource/news-1.jpg" alt=""></a></figure>
+                            <figure class="image"><a href="#"><img src="images/resource/onyx.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                             <div class="author">
@@ -316,7 +316,7 @@
                             <ul class="post-info">
                                
                             </ul>    
-                            <h4><a href="blog-single.html">Onyx Hotel Ketapang </a></h4>
+                            <h4><a href="#">Onyx Hotel Ketapang</a></h4>
                             
                         </div>
                     </div>
@@ -325,7 +325,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             
-                            <figure class="image"><a href="blog-single.html"><img src="images/resource/news-1.jpg" alt=""></a></figure>
+                            <figure class="image"><a href="#"><img src="images/resource/borneo.jpg" alt=""></a></figure>
                         </div>
                         <div class="lower-content">
                             <div class="author">
@@ -335,7 +335,7 @@
                             <ul class="post-info">
                                
                             </ul>    
-                            <h4><a href="blog-single.html">Borneo Emeral Hotel </a></h4>
+                            <h4><a href="#">Borneo Emeral Hotel </a></h4>
                             
                         </div>
                     </div>
