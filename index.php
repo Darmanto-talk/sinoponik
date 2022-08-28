@@ -212,7 +212,7 @@
                         <h2 class="animate-2">SINOPONIK 2022</h2>
                         <div class="text animate-3">Kabupaten Ketapang - Kalimantan Barat</div>
                         <div class="time-counter-two animate-4"><div class="time-countdown" data-countdown="11/04/2022"></div></div>
-                        <div class="btn-box animate-5"><a href="#" class="theme-btn btn-style-two"><span class="btn-title">Daftar Sekarang</span></a></div>
+                        <div class="btn-box animate-5"><a href="https://sinoponik.politap.ac.id/ojs/index.php/Sinoponik" target="_blank" class="theme-btn btn-style-two"><span class="btn-title">Daftar Sekarang</span></a></div>
                     </div>  
                 </div>
             </div>
@@ -416,8 +416,8 @@
                 <div class="pricing-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
                     <div class="inner-box">
                         <span class="title">Non-Pemakalah</span>
-                        <h3>Persrta Umum / Mahasiswa</h3>
-                        <div class="price"> <sup>Rp.</sup>50<sub>.000</sub></div>
+                        <h3>Peserta Umum / Mahasiswa</h3>
+                        <div class="price"> <sup>Rp.</sup>100<sub>.000</sub></div>
                         </br>
                         <button class="theme-btn btn-style-one"><span class="btn-title">Daftar Sekarang</span></button>
                     </div>
@@ -524,7 +524,7 @@
                                     <div class="date-box">
                                         <h3>Pelaksanaan Seminar</h3>
                                     </div>
-                                    <h3><a href="#">01 November 2022</a></h3>
+                                    <h3><a href="#">04 November 2022</a></h3>
                                 </div>
                             </div> 
                         </div>
