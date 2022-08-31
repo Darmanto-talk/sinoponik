@@ -12,84 +12,116 @@
 
             <ul class="page-breadcrumb">
                 <li><a href="index.html">Home</a></li>
-                <li>Kata Sambutan</li>
+                <li>Randown Acara</li>
             </ul>
         </div>
     </div>
 </section>
 <!--End Fun Fact Section -->
 
-<!--Sidebar Page Container-->
-<div class="sidebar-page-container">
+
+<section class="cart-section">
     <div class="auto-container">
-        <div class="row clearfix">
+        <div class="sec-title text-center">
 
-            <!--Content Side / Blog Sidebar-->
-            <div class="content-side col-lg-12 col-md-12 col-sm-12">
-                <div class="blog-detail">
-                    <!-- News Block Four -->
-                    <div class="news-block style-four">
-                        <div class="inner-box">
-                            <div class="image-box">
+            <h2>Jadwal Acara Seminar Nasional SINOPONIK</br>
+                “Manajemen Logistik Maritim dalam Mendukung Ketahanan Pangan Nasional”</br>
+                Politeknik Negeri Ketapang, Jumat 4 November 2022 (Hybrid)
+            </h2>
+            <span class="divider"></span>
+        </div>
+        <!--Cart Outer-->
+        <div class="cart-outer">
+            <div class="table-outer">
+                <table class="cart-table">
+                    <thead class="cart-header">
+                        <tr>
+                            <th class="prod-column">No</th>
+                            <th class="price">Waktu</th>
+                            <th>Acara</th>
 
-                            </div>
-                            <div class="lower-content">
-                                <div class="author">
+                        </tr>
+                    </thead>
 
-                                </div>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>07.30 – 08.00</td>
+                            <td>Registrasi Peserta</td>
+                        </tr>
 
-                                <h3>Sambutan Direktur</h3>
-                                <h4>Politeknik Negeri Ketapang</h4>
+                        <tr>
+                            <td>2</td>
+                            <td>08.00 – 08.15</td>
+                            <td>Pembukaan</br>
+                                1. Menyanyikan Lagu Indonesia Raya</br>
+                                2. Pembacaan Do’a
+                            </td>
+                        </tr>
 
-                                <div class="row two-column">
-                                    <div class="column col-lg-8 col-md-6">
-                                        <p align="justify">Seminar Nasional Politeknik Negeri Ketapang (SINOPONIK) merupakan salah
-                                            satu usaha dari serangkaian usaha yang sedang dilakukan untuk meningkatkan publikasi karya ilmiah,
-                                            tentu selain memperoleh saran penulisan ilmiah yang lebih baik, memiliki jaringan yang lebih luas
-                                            dan berkontribusi dalam pemecahan masalah juga mampu memberi branding kepada penulis maupun institusi.</br>
+                        <tr>
+                            <td>3</td>
+                            <td>08.15 – 08.45</td>
+                            <td>Sambutan Direktur Politeknik Negeri Ketapang </br><b>Bapak Endang Kusmana, SE., MM., Ak.CA</b></td>
+                        </tr>
 
-                                            Politeknik Negeri Ketapang sebagai salah satu perguruan tinggi vokasi di Kabupaten Ketapang Kalimantan Barat
-                                            melalui Dosen-dosennya berusaha secara aktif melaksanakan tri darma perguruan tinggi baik Pendidikan,
-                                            penelitian dan pengabdian kepada masyarakat serta selalu berusaha adaptif dengan berbagai kebijakan yang
-                                            saat ini dikembangkan Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi melalui berbagai sasaran strategis
-                                            baik menyangkut meningkatnya kualitas lulusan pendidikan tinggi, meningkatnya kualitas dosen pendidikan tinggi,
-                                            meningkatnya kualitas kurikulum dan pembelajaran dan meningkatnya tata Kelola Politeknik. </br>
-                                            Rencana Strategis Politeknik Negeri Ketapang 2020-2024 mendorong kolaborasi yang harmonis dalam
-                                            link and match Pendidikan vokasi dengan industri dan dunia kerja bahkan dengan desa.
-                                            Potensi Kabupaten Ketapang dengan luas wilayah seluas Provinsi Jawa Tengah, jumlah desa sebesar 253 desa,
-                                            potensi industri pertambangan, perkebunan, kelautan dan perikanan merupakan sumber inspirasi yang begitu
-                                            luas bagi pelaksanaan tri darma Perguruan Tinggi sehingga memberi inspirasi untuk publikasi hasil penelitian
-                                            dan pengabdian kepada masyarakat secara unik sesuai dengan semangat Politap Membangun Vokasi Dari Desa. </p>
+                        <tr>
+                            <td>4</td>
+                            <td>08.45 – 09.15</td>
+                            <td>Keynote Speaker 1</br>
+                                <b>Bapak Sutarmidji, SH.M.Hum </b></br>Gubernur Kalimantan Barat
+                            </td>
+                        </tr>
 
-                                    </div>
-                                    <div class="column col-lg-4 col-md-6">
-                                        <figure class=""><img src="images/resource/endang.jpg" alt="Image" height="450" width="400"></figure>
-                                    </div>
-                                </div>
-                                <p align="justify ">
+                        <tr>
+                            <td>5</td>
+                            <td>09.15 – 09.45</td>
+                            <td>Keynote Speaker 2</br>
+                                <b> Dr. Beny Bandanadjaya, ST., MT </b></br>Direktur Pendidikan Tinggi Vokasi dan Profesi </br>Direktorat Jenderal Vokasi</br>
+                                Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>6</td>
+                            <td>09.45 – 10.15</td>
+                            <td>Keynote Speaker 3</br><b>Prof. Dr. Ardi Marwan, S.Pd., M.Ed</b> </br>Atase Pendidikan dan Kebudayaan KBRI Berlin, Jerman</td>
+                        </tr>
+
+                        <tr>
+                            <td>7</td>
+                            <td>10.15 – 11.00</td>
+                            <td>Keynote Speaker 4</br><b>Prof. Dr. Budi Setiadi Daryono, S.Si., M.Agr.Sc</b> </br>Guru Besar Universitas Gajah Mada, Yogyakarta</td>
+                        </tr>
+
+                        <tr>
+                            <td>8</td>
+                            <td>11.00 – 13.00</td>
+                            <td>Ishoma</td>
+                        </tr>
+
+                        <tr>
+                            <td>9</td>
+                            <td>13.00 – 16.00</td>
+                            <td><b>Presentation Parallel Session</b> </td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>16.00 – 16.30</td>
+                            <td>Penutupan</br>- Pengumuman pemakalah terbaik</td>
+                        </tr>
 
 
-                                    Dengan SINOPONIK diharapkan muncul gagasan dan rekomendasi penulisan ilmiah yang lebih baik,
-                                    memiliki jaringan sehingga terbentuk ekosistem yang produktif antar Dosen perguruan tinggi,
-                                    berkontribusi dalam pemecahan masalah melalui pelaksanaan Project/Product/Problem Based Learning dan
-                                    mampu memberi branding keunikan setiap perguruan tinggi sesuai karakteristik kearifan local.
 
-                                    .</p>
-                                <div class="post-share-options">
-
-                                </div>
-                                <!-- Other Options -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                    </tbody>
+                </table>
             </div>
 
 
         </div>
+
     </div>
-</div>
-<!-- End Sidebar Page Container -->
+</section>
 
 
 <!-- Fun Fact Section -->
