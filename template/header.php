@@ -104,21 +104,22 @@
                         <li><a href="poster.php">Poster</a></li>
                         <li><a href="panduan.php">Panduan</a></li>
                         <li><a href="biaya.php">Biaya</a></li>
-                        <li><a href="template.docx" download>Format Artikel</a></li>
-                        <li><a href="https://sinoponik.politap.ac.id/index.php/Sinoponik" target="_blank">Pendaftaran</a></li>
+                        <li><a href="images/resource/template.docx" download="template.docx">Format Artikel</a></li>
+                        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeWGKSvGG8YM5UHTxQT4P6kEOTivttQJeB7tGTh_eY-1S-lIA/viewform" target="_blank">Pendaftaran</a></li>
+                        <li><a href="sinoponik.politap.ac.id/ojs" target="_blank">Penyerahan Naskah</a></li>
                       </ul>
                     </li>
                     <li><a href="speaker.php">Pembicara</a></li>
                     <li class="dropdown"><a href="#">Program</a>
                       <ul>
                         <li><a href="topik.php">Topik</a></li>
-                        <li><a href="randown.php">Randown Acara</a></li>
+                        <li><a href="rundown.php">Rundown Acara</a></li>
                       </ul>
                     </li>
                     <li class="dropdown"><a href="#">Tempat</a>
                       <ul>
                         <li><a href="lokasi.php">Lokasi Kegiatan</a></li>
-                        <li><a href="wisata.php">Wisata</a></li>
+                        <!-- <li><a href="wisata.php">Wisata</a></li> -->
                         <li><a href="hotel.php">Referensi Hotel</a></li>
                       </ul>
                     </li>

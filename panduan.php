@@ -11,7 +11,7 @@
         <div class="title-outer">
 
             <ul class="page-breadcrumb">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li>Panduan</li>
             </ul>
         </div>
@@ -20,54 +20,49 @@
 
 
 
+<!--Sidebar Page Container-->
 <div class="sidebar-page-container">
     <div class="auto-container">
         <div class="row clearfix">
 
             <!--Content Side / Blog Sidebar-->
             <div class="content-side col-lg-12 col-md-12 col-sm-12">
-                <div class="blog-sidebar">
+                <div class="blog-detail">
                     <!-- News Block Four -->
-                    <!-- <div class="news-block style-four wow fadeInRight">
-                            <div class="inner-box">
-                                <div class="image-box">
-                                    <span class="tag">Participants</span>
-                                    <figure class="image"><a href="blog-single.html"><img src="images/resource/blog-1.jpg" alt=""></a></figure>
-                                </div>
-                                <div class="lower-content">
-                                    <div class="author">
-                                        <figure class="thumb"><img src="images/resource/author-thumb-1.jpg" alt=""></figure>
-                                        <h5 class="name">Thomas Albart</h5>
-                                    </div>
-                                    <ul class="post-info">
-                                        <li><span class="far fa-calendar"></span> 21/08/2021</li>
-                                        <li><span class="far fa-comments"></span> 02 Comments</li>
-                                    </ul>    
-                                    <h4><a href="blog-single.html">Chances are Good That There’s a Cloud Software as </a></h4>
-                                    <div class="text">Single stroke at the present moment and yet I feel that lorem quis bibendum auctor. Elitm sed eiusmod tempor incididunt umst etsu dolore magna aliquatenim ad.</div>
-                                </div>
-                            </div>
-                        </div> -->
-
-                    <!-- News Block Four -->
-                    <div class="news-block style-four wow fadeInRight">
+                    <div class="news-block style-four">
                         <div class="inner-box">
-                            <!-- <div class="image-box">
-                                    <span class="tag">Virtual</span>
-                                    <figure class="image"><a href="blog-single.html"><img src="images/resource/blog-2.jpg" alt=""></a></figure>
+                            <div class="image-box">
+
+                            </div>
+                            <div class="lower-content">
+                                <div class="author">
+
                                 </div>
-                                <div class="lower-content">
-                                    <div class="author">
-                                        <figure class="thumb"><img src="images/resource/author-thumb-2.jpg" alt=""></figure>
-                                        <h5 class="name">Jamika Lora</h5>
+
+                                <h3>Pengiriman Artikel</h3> </br>
+
+                                <div class="row two-column">
+                                    <div class="column col-lg-12 col-md-6">
+                                        <p align="justify">Artikel / Makalah yang dikirimkan pada konferensi SINOPONIK 2022
+                                            adalah artikel/makalah berbahasa indonesia. Seluruh artikel yang masuk akan ditinjau
+                                            ulang (review) dan informasi artikel/makalah diterima / ditolak / revisi dapat
+                                            diketahui melalui laman dashboard status artikel/makalah pada masing-masing
+                                            akun pemakalah pada situs <a href=" https://sinoponik.politap.ac.id">sinoponik.politap.ac.id</a></br>
+
+                                            Sehubungan dengan pelaksanaan konferensi berbasis online dan offline (hybrid)
+                                            maka bagi pemakalah yang papernya diterima agar selanjutnya membuat slide presentasi
+                                            yang akan di putar pada saat konferensi online dan offline di SINOPONIK 2022.
+                                        </p>
+
                                     </div>
-                                    <ul class="post-info">
-                                        <li><span class="far fa-calendar"></span> 21/08/2021</li>
-                                        <li><span class="far fa-comments"></span> 02 Comments</li>
-                                    </ul>
-                                    <h4><a href="blog-single.html">Chances are Good That There’s a Cloud Software as </a></h4>
-                                    <div class="text">Single stroke at the present moment and yet I feel that lorem quis bibendum auctor. Elitm sed eiusmod tempor incididunt umst etsu dolore magna aliquatenim ad.</div>
-                                </div> -->
+
+                                </div>
+
+                                <div class="post-share-options">
+
+                                </div>
+                                <!-- Other Options -->
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -77,6 +72,7 @@
         </div>
     </div>
 </div>
+<!-- End Sidebar Page Container -->
 
 
 <!-- Fun Fact Section -->

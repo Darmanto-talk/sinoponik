@@ -10,7 +10,7 @@
         <div class="title-outer">
 
             <ul class="page-breadcrumb">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li>Referensi hotel</li>
             </ul>
         </div>
@@ -50,7 +50,7 @@
                 <div class="inner-box">
                     <div class="image-box">
 
-                        <figure class="image"><a href="#"><img src="images/resource/aston.jpg" alt=""></a></figure>
+                        <figure class="image"><a href="#"><img src="images/resource/Aston.jpg" alt=""></a></figure>
                     </div>
                     <div class="lower-content">
                         <div class="author">

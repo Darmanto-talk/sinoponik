@@ -191,38 +191,43 @@
             <span class="divider"></span>
         </div>
 
-        <div class="row">
-            <!-- Pricing block -->
-            <div class="pricing-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-                <div class="inner-box">
-                    <span class="title">Pemakalah </span>
-                    <h3>Kedua / Mahasiswa</h3>
-                    <div class="price"> <sup>Rp.</sup>200<sub>.000</sub></div></br>
 
-                    <button class="theme-btn btn-style-one"><span class="btn-title">Daftar Sekarang</span></button>
+
+
+        <div class="row clearfix">
+            <div class="feature-block col-lg-3 col-md-8 col-sm-12 wow fadeInUp">
+                <div class="inner-box">
+                    <h4>Rincian Biaya</h4>
+                    <h5>Pemakalah Umum / Industri / Praktisi </h5> </br> </br>
+                    <h3> Rp 350.000</h3>
+
+                </div>
+            </div>
+            <div class="feature-block col-lg-3 col-md-8 col-sm-12 wow fadeInUp">
+                <div class="inner-box">
+                    <h4>Rincian Biaya</h4>
+                    <h5> Makalah kedua </h5> </br> </br> </br>
+                    <h3> Rp 250.000</h3>
+
+                </div>
+            </div>
+            <div class="feature-block col-lg-3 col-md-8 col-sm-12 wow fadeInUp">
+                <div class="inner-box">
+                    <h4>Rincian Biaya</h4>
+                    <h5>Pemakalah Mahasiswa D3/S1/S2/S3</h5> </br> </br>
+                    <h3>Rp 200.000</h3>
+
+                </div>
+            </div>
+            <div class="feature-block col-lg-3 col-md-8 col-sm-12 wow fadeInUp">
+                <div class="inner-box">
+                    <h4>Rincian Biaya</h4>
+                    <h5>Non-Pemakalah Mahasiswa dan Umum </h5> </br> </br>
+                    <h3> Rp 100.000</h3>
+
                 </div>
             </div>
 
-            <!-- Pricing block -->
-            <div class="pricing-block tagged col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-                <div class="inner-box">
-                    <span class="title">Pemakalah </span>
-                    <h3>Umum / Industri / Praktisi</h3>
-                    <div class="price"> <sup>Rp.</sup>300<sub>.000</sub></div></br>
-                    <button class="theme-btn btn-style-two"><span class="btn-title">Daftar Sekarang</span></button>
-                </div>
-            </div>
-
-            <!-- Pricing block -->
-            <div class="pricing-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-                <div class="inner-box">
-                    <span class="title">Non-Pemakalah</span>
-                    <h3>Peserta Umum / Mahasiswa</h3>
-                    <div class="price"> <sup>Rp.</sup>100<sub>.000</sub></div>
-                    </br>
-                    <button class="theme-btn btn-style-one"><span class="btn-title">Daftar Sekarang</span></button>
-                </div>
-            </div>
         </div>
     </div>
 </section>

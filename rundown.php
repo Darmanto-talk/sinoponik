@@ -11,8 +11,8 @@
         <div class="title-outer">
 
             <ul class="page-breadcrumb">
-                <li><a href="index.html">Home</a></li>
-                <li>Randown Acara</li>
+                <li><a href="index.php">Home</a></li>
+                <li>Rundown Acara</li>
             </ul>
         </div>
     </div>
